@@ -1,1 +1,1 @@
-# Basics-of-Pandas
+# Exploring pandas library for data scientist
